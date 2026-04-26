@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.qdrant/
+qdrant_data/
+logs.db
+.pytest_cache/
+.idea/
+.vscode/
